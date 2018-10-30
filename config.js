@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Right Brain Design', // Required
+  author: 'Fred Siika', // Required
+  description: 'Full-stack Software Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://fredsiika.io',
+    github: 'https://github.com/fredsiika',
+    twitter: 'https://twitter.com/fredsiika',
+    linkedin: 'https://linkedin.com/in/fredsiika',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: '/right-brain-design',
+  siteUrl: 'https://fredsiika.io/right-brain-design/',
 };
