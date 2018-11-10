@@ -64,4 +64,11 @@ injectGlobal`
 	text-align: center;
 	border-top: 1px solid #e6e6e6;
 }
+.info {
+    margin: 65px auto 0;
+    color: #bfbfbf;
+    font-size: 10px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    text-align: center;
+}
 `;
