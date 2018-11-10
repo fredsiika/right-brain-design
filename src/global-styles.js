@@ -57,4 +57,11 @@ injectGlobal`
       }
     }
   }
+.footer {
+	color: #777;
+	padding: 10px 15px;
+	height: 20px;
+	text-align: center;
+	border-top: 1px solid #e6e6e6;
+}
 `;
