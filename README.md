@@ -100,7 +100,7 @@ The top of the pages must all contain the same markdown which tells Gatsby the n
 ```markdown
 ---
 title: New Beginnings
-date: "2018-07-01"
+date: "2019-02-17"
 featuredImage: './featured.jpg'
 ---
 
