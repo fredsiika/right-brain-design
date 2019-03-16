@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Right Brain Design', // Required
   author: 'Fred Siika', // Required
-  description: 'Full-stack Software Developer',
+  description: 'Full-stack Software Engineer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
